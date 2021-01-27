@@ -25,7 +25,7 @@ func main() {
 // getIndianMap returns map of India as a string
 func getIndianMap() string {
 	const (
-		// String with which the function will determine how many spaces or exclamation marks to draw the flag
+		// String with which the function will determine the number of spaces or exclamation marks to draw the flag
 		s = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq TNn*RPn/QP,\n" +
 			"bEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBLOFAkHFOuFETpHCStHAUFAgcEAelc,\n" +
 			"lcn^r^r\\tZvYxXyT|S~Pn SPm SOn TNn ULo0ULo#ULo-WHq!WFs XDt!"
